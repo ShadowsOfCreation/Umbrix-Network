@@ -1,2 +1,74 @@
-# Umbrix-Network
-A modular collaboration platform designed to unify communities, projects, and knowledge into a single adaptable network.
+# Umbrix Network
+
+Umbrix Network is a modular collaboration platform developed under the **Shadows of Creation** studio.
+
+The goal of Umbrix is to unify the fragmented tools currently used for communities, collaboration, project development, and knowledge sharing into a single adaptable platform.
+
+Rather than forcing every community into the same structure, Umbrix will allow communities to enable only the features they need through a modular system.
+
+---
+
+## Vision
+
+Modern communities and projects are spread across many disconnected platforms.
+
+For example, a typical project might rely on:
+
+- Discord for communication
+- GitHub for development
+- Forums or Reddit for discussion
+- Documentation tools for knowledge sharing
+- Project management tools for collaboration
+
+Umbrix Network aims to bring these systems together into a unified platform designed for communities that build, collaborate, and share knowledge.
+
+---
+
+## Core Philosophy
+
+Umbrix is built around a few core principles:
+
+### Modularity
+Communities should not be forced to use features they do not need.
+
+Umbrix will allow communities to enable or disable modules depending on their purpose.
+
+### Collaboration
+Umbrix is designed to support communities that actively build projects together.
+
+### Flexibility
+Different communities have different needs. Umbrix should adapt to them rather than forcing a rigid structure.
+
+### Community-Driven Development
+Umbrix is being shaped with input from its early community and contributors.
+
+---
+
+## Platform Concept
+
+Umbrix Network will consist of a core platform and a set of modular components.
+
+Example modules may include:
+
+- Chat systems
+- Project collaboration tools
+- Knowledge sharing systems
+- Documentation tools
+- Community hubs
+- Development tooling integrations
+
+Communities will be able to configure their environment using these modules.
+
+---
+
+## Current Status
+
+Umbrix Network is currently in the **early planning and architecture phase**.
+
+Development and design discussions are happening within the Umbrix community.
+
+---
+
+## Organization
+
+Umbrix Network is developed by **Shadows of Creation**.
