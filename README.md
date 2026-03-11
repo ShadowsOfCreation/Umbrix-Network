@@ -86,7 +86,7 @@ Development and design discussions are happening within the Umbrix community.
 
 See the project roadmap here:
 
-docs/ROADMAP.md
+[Road Map](https://github.com/ShadowsOfCreation/Umbrix-Network/blob/e7d9820df469971c6076a3d26e8300a5ca859e7d/docs/ROADMAP.md)
 
 ---
 
