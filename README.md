@@ -73,7 +73,7 @@ Development and design discussions are happening within the Umbrix community.
 
 Join the Umbrix community on Discord:
 
-https://discord.gg/YOURINVITELINK
+https://discord.gg/7kRtnfXtej
 
 Website: https://umbrix.shadowsofcreation.dev
 
