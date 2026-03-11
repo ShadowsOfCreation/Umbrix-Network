@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/status-planning-blue">
   <img src="https://img.shields.io/badge/platform-modular-informational">
   <img src="https://img.shields.io/badge/community-driven-purple">
-  <img src="https://img.shields.io/github/stars/Shadows-of-Creation/Umbrix-Network">
-  <img src="https://img.shields.io/github/issues/Shadows-of-Creation/Umbrix-Network">
-  <img src="https://img.shields.io/github/license/Shadows-of-Creation/Umbrix-Network">
-  <img src="https://img.shields.io/github/last-commit/Shadows-of-Creation/Umbrix-Network">
+  <img src="https://img.shields.io/github/stars/ShadowsOfCreation/Umbrix-Network">
+  <img src="https://img.shields.io/github/issues/ShadowsOfCreation/Umbrix-Network">
+  <img src="https://img.shields.io/github/license/ShadowsOfCreation/Umbrix-Network">
+  <img src="https://img.shields.io/github/last-commit/ShadowsOfCreation/Umbrix-Network">
 </p>
 
 Umbrix Network is a modular collaboration platform developed under the **Shadows of Creation** studio.
