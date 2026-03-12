@@ -12,7 +12,7 @@
 ![Community](https://img.shields.io/badge/community-driven-purple)
 ![Stars](https://img.shields.io/github/stars/ShadowsOfCreation/Umbrix-Network)
 ![Issues](https://img.shields.io/github/issues/ShadowsOfCreation/Umbrix-Network)
-![License](https://img.shields.io/github/license/ShadowsOfCreation/Umbrix-Network)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/ShadowsOfCreation/Umbrix-Network)
 ![Release](https://img.shields.io/github/v/release/ShadowsOfCreation/Umbrix-Network)
 
