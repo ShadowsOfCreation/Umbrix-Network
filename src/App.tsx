@@ -1,14 +1,28 @@
 import Sidebar from "./components/Sidebar"
-import Home from "./pages/Home"
+import Hub from "./pages/Hub"
+import "./App.css"
 
 function App() {
   return (
-    <div style={{ display: "flex", height: "100vh" }}>
+    <div
+      style={{
+        display: "flex",
+        minHeight: "100vh",
+        background: "#0b0b0b",
+        color: "#f5f5f5",
+      }}
+    >
       <Sidebar />
 
-      <div style={{ padding: "20px", flex: 1 }}>
-        <Home />
-      </div>
+      <main
+        style={{
+          flex: 1,
+          padding: "32px",
+          boxSizing: "border-box",
+        }}
+      >
+        <Hub />
+      </main>
     </div>
   )
 }
