@@ -5,16 +5,17 @@
 <h1 align="center">Umbrix Network</h1>
 
 <p align="center">
-  <a href="https://discord.gg/7kRtnfXtej">
-    <img src="https://img.shields.io/discord/1444043510683668633?label=Discord&logo=discord">
-  </a>
-  <img src="https://img.shields.io/badge/status-planning-blue">
-  <img src="https://img.shields.io/badge/platform-modular-informational">
-  <img src="https://img.shields.io/badge/community-driven-purple">
-  <img src="https://img.shields.io/github/stars/ShadowsOfCreation/Umbrix-Network">
-  <img src="https://img.shields.io/github/issues/ShadowsOfCreation/Umbrix-Network">
-  <img src="https://img.shields.io/github/license/ShadowsOfCreation/Umbrix-Network">
-  <img src="https://img.shields.io/github/last-commit/ShadowsOfCreation/Umbrix-Network">
+
+[![Discord](https://img.shields.io/discord/1444043510683668633?label=Discord&logo=discord)](https://discord.gg/7kRtnfXtej)
+![Status](https://img.shields.io/badge/status-planning-blue)
+![Platform](https://img.shields.io/badge/platform-modular-informational)
+![Community](https://img.shields.io/badge/community-driven-purple)
+![Stars](https://img.shields.io/github/stars/ShadowsOfCreation/Umbrix-Network)
+![Issues](https://img.shields.io/github/issues/ShadowsOfCreation/Umbrix-Network)
+![License](https://img.shields.io/github/license/ShadowsOfCreation/Umbrix-Network)
+![Last Commit](https://img.shields.io/github/last-commit/ShadowsOfCreation/Umbrix-Network)
+![Release](https://img.shields.io/github/v/release/ShadowsOfCreation/Umbrix-Network)
+
 </p>
 
 Umbrix Network is a modular collaboration platform developed under the **Shadows of Creation** studio.
