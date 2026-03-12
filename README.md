@@ -81,7 +81,7 @@ Communities will be able to configure their environment using these modules.
 
 ## Current Status
 
-Umbrix Network is currently in the **early planning and architecture phase**.
+Umbrix Network is currently in the **early development phase**.
 
 Development and design discussions are happening within the Umbrix community.
 
