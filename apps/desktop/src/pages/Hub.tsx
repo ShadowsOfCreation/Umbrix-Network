@@ -1,23 +1,25 @@
 import { useEffect, useState } from "react"
 import type { UmbrixModuleManifest } from "@umbrix/shared"
 import { getRegisteredModules } from "../core/modules/registry"
+import { registerBuiltinModules } from "../core/modules/register-builtins"
 
 export default function Hub() {
   const [modules, setModules] = useState<UmbrixModuleManifest[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-  async function loadModules() {
-    try {
-      const loadedModules = await getRegisteredModules()
-      setModules(loadedModules)
-    } finally {
-      setLoading(false)
+    async function loadModules() {
+      try {
+        const loadedModules = await getRegisteredModules()
+        registerBuiltinModules(loadedModules)
+        setModules(loadedModules)
+      } finally {
+        setLoading(false)
+      }
     }
-  }
 
-  loadModules()
-}, [])
+    loadModules()
+  }, [])
 
   return (
     <div>

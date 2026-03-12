@@ -2,6 +2,7 @@ import { useState } from "react"
 import Sidebar from "./components/Sidebar"
 import Hub from "./pages/Hub"
 import "./App.css"
+import { getModuleUI } from "./core/modules/ui-registry"
 
 function App() {
   const [activePage, setActivePage] = useState("hub")
@@ -25,12 +26,23 @@ function App() {
       >
         {activePage === "hub" && <Hub />}
 
-        {activePage !== "hub" && (
+        {activePage === "settings" && (
           <div>
-            <h2>{activePage}</h2>
-            <p>This module will render here.</p>
+            <h2>Settings</h2>
+            <p>Umbrix settings will live here.</p>
           </div>
         )}
+
+        {activePage !== "hub" && activePage !== "settings" && (() => {
+          const module = getModuleUI(activePage)
+
+          if (!module) {
+            return <p>Module UI not registered.</p>
+          }
+
+          const Component = module.component
+          return <Component />
+        })()}
       </main>
     </div>
   )
